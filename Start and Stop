@@ -1,6 +1,4 @@
 # /usr/bin/python2.7
-# written by Tomas (www.lisenet.com) on 05/11/2012
-# copyleft free software
 
 import boto.ec2
 import sys
